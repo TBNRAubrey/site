@@ -1,13 +1,18 @@
-## Welcome to GitHub Pages
+## Utilizing Oracle Cloud on Android 
 
-You can use the [editor on GitHub](https://github.com/TBNRAubrey/site/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Oracle Cloud has 0 documentation on accessing it on your android device. Lets fix that.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+
+### Getting your SSH Client
+
+We will be using JuiceSSH. Yeah I know that ConnectBot exists but JuiceSSH is more popular.
+
+Download JuiceSSH and then go to Quick Connect. Type your username, hostname, and port like this: username@[hostname]:port and then try tick the box that says save connection for further use. It will fail, and after it keeps failing a box will show up. Click no, and then go to the Manage Connections tab.
+
+##
 ```markdown
 Syntax highlighted code block
 
